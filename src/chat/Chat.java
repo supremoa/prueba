@@ -35,6 +35,7 @@ public class Chat {
             hilo1.setH(hilo1);
             hilo1.start();
             hilo.add(hilo1);
+            //
         }
     }
 }
